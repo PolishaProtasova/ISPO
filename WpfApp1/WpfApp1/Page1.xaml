@@ -1,0 +1,34 @@
+﻿<Page x:Class="WpfApp1.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="800"
+      Title="Page1">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="260"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="RoomBtn" Grid.Row="0" Margin="0, 0, 0, 0" Grid.Column="0" Click="RoomBtn_Click" Grid.ColumnSpan="2" Content="Комнаты" BorderBrush="#FF706F6F"></Button>
+        <Button x:Name="ClientBtn" Grid.Row="0" Margin="0, 0, 0, 0" Grid.Column="2" Click="ClientBtn_Click" Grid.ColumnSpan="2"  Content="Клиенты" BorderBrush="#FF706F6F"></Button>
+        <Button x:Name="BookingBtn" Grid.Row="0" Margin="0, 0, 0, 0" Grid.Column="4" Click="BookingBtn_Click" Grid.ColumnSpan="2" Content="Бронирования" BorderBrush="#FF706F6F"></Button>
+        <TextBox x:Name="txt" Grid.Row="1" Grid.Column="0" Height="250" Width="700" HorizontalAlignment="Center" Grid.ColumnSpan="6"></TextBox>
+        <Button x:Name="AddBtn" Click="AddBtn_Click" Content="Добавить" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,40,0" ></Button>
+        <TextBlock Text="Удалить клиента по фамилии:" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3" Margin="0,0,80,0"></TextBlock>
+        <TextBox x:Name="delTxt" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="3" Margin="150,0,0,0" Width="200" ></TextBox>
+        <Button x:Name="DelBtn" Click="DelBtn_Click_1" Width="110" Content="Удалить" Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="2" Margin="96.667,25,55,25" ></Button>
+    </Grid>
+</Page>
