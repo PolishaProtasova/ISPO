@@ -1,0 +1,14 @@
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+E:\4 курс\УП Зернова\ТЕХ_ЧАСТЬ\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
